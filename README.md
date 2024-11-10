@@ -57,10 +57,6 @@ print("Confusion Matrix:")
 print(cm)
 ``
 ## Output:
-![Screenshot 2024-11-10 194142](https://github.com/user-attachments/assets/6c9e27d7-b3d6-4758-9e8c-e7543a614862)
-
-
-
-
+![Screenshot 2024-11-10 202542](https://github.com/user-attachments/assets/9e2e3b69-95c9-4bb9-9083-ca5001e7960d)
 ## Result:
 Thus, the program to implement the prediction of the Iris species using SGD Classifier is written and verified using Python programming.
