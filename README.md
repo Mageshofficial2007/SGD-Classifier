@@ -17,8 +17,8 @@ To write a program to predict the type of species of the Iris flower using the S
 ```
 /*
 Program to implement the prediction of iris species using SGD Classifier.
-Developed by: 
-RegisterNumber:  
+Developed by: MAGESH BOOPATHI.M
+RegisterNumber:  24900855
 */
 ```
 ```python
@@ -57,7 +57,8 @@ print("Confusion Matrix:")
 print(cm)
 ``
 ## Output:
-![Screenshot 2024-11-10 194142](https://github.com/user-attachments/assets/6c7b2429-4efa-441b-9ef5-4b868732c815)
+![Screenshot 2024-11-10 194142](https://github.com/user-attachments/assets/6c9e27d7-b3d6-4758-9e8c-e7543a614862)
+
 
 
 
