@@ -53,9 +53,10 @@ print(f"Accuracy: {accuracy:.3f}")
 cm = confusion_matrix(y_test, y_pred)
 print("Confusion Matrix:")
 print(cm)
-``
+```
 ## Output:
-![Screenshot 2024-11-10 202542](https://github.com/user-attachments/assets/b3a75c53-6b79-4da2-bdd8-f7f088e4af3d)
+
+![Screenshot 2024-11-10 202542](https://github.com/user-attachments/assets/e2e32c14-ce04-4fa4-9c58-03ca4df24823)
 
 
 ## Result:
